@@ -1,6 +1,5 @@
-package com.akzhol.springbootneobis.entity.book;
+package com.akzhol.springbootneobis.entity.person;
 
-import com.akzhol.springbootneobis.entity.person.Person;
 import jakarta.persistence.*;
 
 
